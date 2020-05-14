@@ -1,0 +1,62 @@
+﻿Weintyp,Charakter,Geschmack,Land,Preis,Name
+Rotwein,mittelschwer,kräftig/strukturiert,Italien,19.8,Sicilia IGT Fatagione Cottanera
+Rotwein,mittelschwer,weich,Italien,27.5,Vigneti delle Dolomiti IGT
+Rotwein,mittelschwer,weich,Italien,3.5,Antonini Monte Chiara Montepulciano d'Abruzzo DOC
+Rotwein,schwer,fruchtig,Italien,74.95,Magnum Amarone della Valpolicella DOC Costasera Masi
+Rotwein,mittelschwer,weich,Italien,55,Brunello die Montalicino DOCG Castel Gioconodo
+Rotwein,mittelschwer,fruchtig,Italien,10.95,Venezie IGT Justo Cesari
+Rotwein,mittelschwer,frisch,Schweiz,46.2,Ticino DOC Merlot Riserva Racconti Monticello
+Rotwein,schwer,kräftig/strukturiert,Schweiz,79.95,Valais AOC Assemblage Rouge Edition V Tsampéhro
+Rotwein,mittelschwer,kräftig/strukturiert,Schweiz,56,Ticino DOC Merlot Quattromani
+Rotwein,leicht,fruchtig,Schweiz,3.95,Blauburgunder Landwein
+Rotwein,mittelschwer,weich,Schweiz,28.5,Assemblage Rouge Edition Peter Keller Weingut Sabine Steiner
+Rotwein,mittelschwer,kräftig/strukturiert,Schweiz,55.95,Valais AOC Clos de Châteauneuf Philippe
+Rotwein,mittelschwer,kräftig/strukturiert,Frankreich,46.5,Mercurey 1er Cru Champs Martin AOC Domaine Bruno Lorenzon
+Rotwein,mittelschwer,kräftig/strukturiert,Frankreich,62.95,Côte-Rôtie AOC Maugiron Delas Frères
+Rotwein,leicht,fruchtig,Frankreich,20,Ventoux AOC Domaine la Tour Rocan
+Rotwein,leicht,fruchtig,Frankreich,14.95,Bourgogne Pinot Noir L. Jadot AOC
+Rotwein,schwer,kräftig/strukturiert,Frankreich,42.95,Vaucluse IGP Tempesta Aureto
+Rotwein,schwer,kräftig/strukturiert,Frankreich,59,Châteauneuf du Pape AOC La Célestière
+Rotwein,schwer,üppig/opulent,Spanien,44.95,Montsant DO Auditori Bodegas Acústic Celler
+Rotwein,leicht,fruchtig,Spanien,6.95,Freixenet Mía Tinto Vino de la Tierra de Castilla
+Rotwein,mittelschwer,fruchtig,Spanien,9.95,Valencia DO Bobal Atance Risky Grapes
+Rotwein,schwer,üppig/opulent,Spanien,42.5,Vino de la Tierra Castilla y Leon Quinta Sardonia
+Rotwein,schwer,üppig/opulent,Spanien,44,Toro Do Celsus Bodegas Vetus
+Rotwein,mittelschwer,kräftig/strukturiert,Spanien,69,Priorat DOQ Finca Dofí Alvaro Palacios
+Rotwein,schwer,weich,Spanien,12.5,Priorat DOQ Ònix Clàssic Vinicola del Priorat
+Rotwein,schwer,weich,Spanien,100,Ribera del Duero DO El Picón Pago de los Capellanes 
+Weisswein,leicht,frisch,Frankreich,19.95,AOC Alsace Riesling Bruderbach Clos des Frères Domaine Loew
+Weisswein,leicht,frisch,Spanien,21.95,Douro DOC Redoma Branco Niepoort
+Weisswein,leicht,frisch,Deutschland,14.95,Riesling Braitenpuechtorff Ingrid Groiss
+Weisswein,leicht,fruchtig,Frankreich,18.95,AOC Alsace Riesling Pur de Roche Joseph Cattin 
+Weisswein,mittelschwer,fruchtig,Frankreich,79.95,AOC Alsace Grand Cru Brand Riesling
+Weisswein,mittelschwer,fruchtig,Frankreich,59.95,AOC Alsace Grand Cru Goldert Gewurztraminer Domaine Zind Humbrecht
+Weisswein,leicht,frisch,Schweiz,13,Saint-Saphorin Domaine du Burignon Lavaux AOC
+Weisswein,mittelschwer,fruchtig,Schweiz,11.6,Fleur du Rhône Petite Arvine Valais AOC
+Weisswein,mittelschwer,fruchtig,Schweiz,24.95,Valais AOC Heida Maître de Chais
+Weisswein,mittelschwer,frisch,Schweiz,40,La Côte AOC Féchy Les Merveilles
+Weisswein,mittelschwer,frisch,Schweiz,16.2,Fine Food Féchy Premier Grand Cru Domaine de Fischer 
+Weisswein,leicht,frisch,Schweiz,23.95,Valais AOC Païen Cave Caloz
+Weisswein,mittelschwer,frisch,Spanien,13.95,Valdeorras do o Luar do Sil Pago de los Capellanes
+Weisswein,leicht,kräftig/strukturiert,Spanien,11.5,Rueda DO Marqués de Riscal
+Weisswein,leicht,fruchtig,Spanien,6.95,Freixenet Mía Blanco Vino de la Tierra de Castilla
+Weisswein,leicht,frisch,Italien,11.5,Vermentino di Sardegna DOC Bromeus
+Weisswein,mittelschwer,fruchtig,Italien,13.95,Sardegna doc Vermentino Costamolino Argiolas
+Weisswein,leicht,fruchtig,Italien,20,Cormòns Pinot Grigio Venezia Giulia IGT
+Weisswein,leicht,fruchtig,Italien,11.5,Toscana IGT Bianco Villa Antinori
+Roséwein,leicht,fruchtig,Italien,4.95,Lambrusco di Modena Rosato Frizzante IGT
+Roséwein,leicht,fruchtig,Italien,16.95,Irpina DOC Rosato Visione Feudi di San Gregorio
+Roséwein,mittelschwer,fruchtig,Italien,8.95,Primitivo del Salento Rosato IGP Vecchia Torre
+Roséwein,mittelschwer,fruchtig,Frankreich,22.95,Rosé Cotes Provence Miraval
+Roséwein,leicht,fruchtig,Frankreich,16.95,Côtes de Provence AOP Rosé M Minuty
+Roséwein,mittelschwer,frisch,Frankreich,6.5,Val d'Azur Rosé Méditerranée IGP
+Roséwein,mittelschwer,fruchtig,Frankreich,5.95,Rosé Vin de Pays Méditerranée igp Domaine de L'Isle St Pierre
+Roséwein,mittelschwer,frisch,Schweiz,17.9,Schaffhausen AOC Schiller Florin Weine
+Roséwein,mittelschwer,fruchtig,Schweiz,18.95,Valais AOC Rosé mi-doux la Porte de Novembre
+Roséwein,mittelschwer,kräftig/strukturiert,Schweiz,17.95,Neuchâtel AOC Oeil de Perdrix Château d'Auvernier
+Roséwein,leicht,fruchtig,Schweiz,1.95,Valais AOC Oeil de Perdrix Rosé Alia
+Roséwein,leicht,weich,Spanien,14.95,Ribera del Duero do Rosé Flamingo San Cristobal
+Roséwein,mittelschwer,fruchtig,Spanien,10.95,Rioja DOCa Rosado Marqués de Riscal
+Roséwein,mittelschwer,frisch,Spanien,6.95,Gran Feudo Rosado Navarra DO
+Roséwein,leicht,frisch,Spanien,2.95,Rubi Rosa Utiel DO
+Roséwein,leicht,fruchtig,Schweiz,7.50,Zürich AOC Rosé Zürcher Weinländer
